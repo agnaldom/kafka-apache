@@ -1,7 +1,9 @@
 # kafka-apache
-Este projeto conté o estudo da tecnologia Kafka Apache
 
-## Kafka Theory
+O Apache kafka é uma plataform distribuída de transmissão de dados que é capaz de publicar, 
+subscrever, armazenar e processar fluxos de registros em tempo real.
+
+## Kafka Theory 
 * Topics, Partitions and Offsets
 * Brokers and Topics
 * Topic Replication
