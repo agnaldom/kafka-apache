@@ -11,3 +11,7 @@ Este projeto conté o estudo da tecnologia Kafka Apache
 * Kafka Broker Discovery
 * Zookeeper
 * Theory Roundup
+
+## Links
+
+* [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol)
