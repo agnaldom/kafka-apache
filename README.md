@@ -15,3 +15,4 @@ Este projeto conté o estudo da tecnologia Kafka Apache
 ## Links
 
 * [A Guide To The Kafka Protocol](https://cwiki.apache.org/confluence/display/KAFKA/A+Guide+To+The+Kafka+Protocol)
+* [Confluent Kafka GO](https://github.com/confluentinc/confluent-kafka-go)
